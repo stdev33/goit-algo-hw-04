@@ -1,6 +1,6 @@
-# goit-algo-hw-02
+# goit-algo-hw-04
 
-Homework 2. Basic Algorithms and Data Structures at GoIT Neoversity
+Homework 4. Basic Algorithms and Data Structures at GoIT Neoversity
 
 # Sorting Algorithms Comparison
 
